@@ -4,6 +4,10 @@ A single-file WebGL2 path tracer that models glass lenses and other objects on a
 
 **[Live demo](https://mpragliola.github.io/glass-real-optics-bench/)**
 
+![Glass ball on a tiled floor in front of a city skyline](docs/screenshot.png)
+
+*Software-rendered screenshot with caustics off; on a real GPU the page also renders the sun's caustics on the floor.*
+
 ## Features
 
 - Lens with independent convex, flat or concave faces; also spheres, tapered solids, Platonic solids, SDF shapes and loaded triangle meshes (OBJ/STL, drag and drop)
